@@ -87,6 +87,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries, please contact [Vijayroyal358](mailto:vijayroyal358@example.com).
+For any inquiries, please contact sreenivasakurabalakota@gmail.com
 
 ---
